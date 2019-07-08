@@ -18,7 +18,7 @@ For the first time, designers can create **and ship** beautiful animations witho
 
 # Getting Started
 
-Get started with Lottie by installing the node module with yarn or npm:
+Get started with Lottie by installing the node module with yarn:
 
 ```
 yarn add lottie-react-web
